@@ -52,4 +52,3 @@ class Opinion:
 
     def to_dict(self):
         return {"opinion_id": self.opinion_id} | {key: getattr(self, key) for key in self.selectors.keys()}
-        
