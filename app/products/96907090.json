@@ -1,0 +1,1269 @@
+{
+    "product_id": "96907090",
+    "product_name": "Xiaomi Mi Temperature and Humidity Monitor 2 (NUN4126GL)",
+    "opinions": [
+        {
+            "opinion_id": "13821329",
+            "author": "t...l",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Małe poręczne urządzenie, mieści się w zaciśniętej pięści, mieści się wszędzie, bez dodatkowych kabli i innych nana nan na",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-01-22 12:28:23",
+            "purchase_date": "2021-01-17 15:40:27",
+            "useful": 1,
+            "useless": 1
+        },
+        {
+            "opinion_id": "13895536",
+            "author": "m...a",
+            "recommendation": true,
+            "stars": 4.5,
+            "content": "W tym budżecie ciężko o coś lepszego. Kupiłem 4 sztuki i porównałem pomiary z innymi urządzeniami w mieszkaniu. różnice nie większe niż 0,1 stopnia. Z wilgotnością jest trochę gorzej bo wstępnie odchyły na poziomie 5% ale to i tak uważam że jest super. Wszystko mam spięte aplikacją z kilkoma innymi urządzeniami od Xiaomi (nawilżacze, oczyszczacz powietrza) wszystko robię pod kątem noworodka. Mieszkamy w okolicy \"kopciuchów\" centrum Łodzi, każdemu w podobnej sytuacji polecam, czuć wymierną poprawę szczególnie w nocy podczas snu.System w telefonie iOS, działa bez zastrzeżeń. Zdecydowanie polecam.",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [
+                "niedokładny pomiar"
+            ],
+            "purchased": true,
+            "submit_date": "2021-02-04 08:25:21",
+            "purchase_date": "2021-02-01 12:40:40",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14385818",
+            "author": "a...h",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Polecam",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-30 07:48:40",
+            "purchase_date": "2021-04-09 12:19:07",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14024545",
+            "author": "Andy",
+            "recommendation": true,
+            "stars": 4.0,
+            "content": "Nowa wersja ale słabszy miernik w stosunku do v.1. Sam miernik nie współpracuje z Homekit. Duża bezwładność pomiarów (ok.30 min), nieduży zasięg BT - miernik w drugim pokoju (7-10 m) łączy się długo i nie zawsze skutecznie. Mierniki w tym samym pokoju łącza się szybciej. Historia pomiarów w czujniku do 3 miesięcy - co godzinę pomiar. Brak baterii w zestawie.",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-26 09:55:36",
+            "purchase_date": "2021-02-24 11:32:43",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13548168",
+            "author": "m...i",
+            "recommendation": null,
+            "stars": 3.0,
+            "content": "malutki. wygląda ładnie. jedyny minus to parametry pomiaru. zawyża poziom wilgotności o około 6-8% w porównaniu do większych stacji pogodowych. można połączyć się z telefonem chociaż za daleko być nie można od urządzenia.  ogólnie ok. jest użyteczny. tylko gdyby nie ta różnica pomiaru...",
+            "pros": [
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [
+                "niedokładny pomiar"
+            ],
+            "purchased": true,
+            "submit_date": "2020-12-10 12:31:39",
+            "purchase_date": "2020-12-02 08:02:35",
+            "useful": 1,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13418552",
+            "author": "k...a",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Odrobinkę rozczarowana, bo byłam przygotowana na zupełnie inne rozmiary. Jest to taka miniaturka, bardzo malutkie. Ale myślę, że bez względu na rozmiary sprawdzi się. Na razie nie używany ponieważ nie mam baterii.",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2020-11-20 18:26:01",
+            "purchase_date": "2020-11-05 23:01:07",
+            "useful": 1,
+            "useless": 2
+        },
+        {
+            "opinion_id": "13916442",
+            "author": "l...n",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Czujnik, mały i zgrabny, szybko reaguje na zmiany, nie ma problemu z połączeniem przez bluetooth z telefonem i w telefonie jest dostępna historia zmian co godzinę.",
+            "pros": [
+                "funkcjonalność",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-08 11:00:37",
+            "purchase_date": "2021-02-02 22:02:36",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13687125",
+            "author": "p...2",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Bardzo przydatne przy noworodku i mierzeniu temperatury w pomieszczeniu w jakim się znajduje. Bardzo mały rozmiar jest ogromnym plusem.",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2020-12-31 00:45:33",
+            "purchase_date": "2020-12-22 14:24:47",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14278907",
+            "author": "p...l",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Produkt jest super, może trochę za mały przez co jest nieczytelny z dalszej odległości, ale można sprawdzić pomiar w aplikacji",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-13 11:12:52",
+            "purchase_date": "2021-04-06 18:55:28",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14058307",
+            "author": "w...2",
+            "recommendation": false,
+            "stars": 2.5,
+            "content": "Jakość wykonania dobra, pomiar temperatury dość dokładny, natomiast pomiar wilgotności to porażka-odchylenia od mojego dokładnego termohigrometru sięgają 8-10% .Fakt, nie jest to profesjonalny termohigrometr za tą cenę , ale taka \"dokładność\" to trochę lekka kpina.\nDo domowych zastosowań może wystarczy, uśmiechnięta buźka świadczy o tzw. komforcie cieplnym, czyli warunków otoczenia w których czujemy się dobrze. Jeszcze warto mieć w domu oczyszczacz powietrza, bo w naszych miastach często powietrze jest b.brudne. Dobrą funkcją jest połączenie BT z MiHome .",
+            "pros": [
+                "funkcjonalność",
+                "jakość"
+            ],
+            "cons": [
+                "niedokładny pomiar"
+            ],
+            "purchased": true,
+            "submit_date": "2021-03-04 12:31:56",
+            "purchase_date": "2021-03-02 13:28:54",
+            "useful": 0,
+            "useless": 1
+        },
+        {
+            "opinion_id": "13976702",
+            "author": "d...a",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Solidnie wykonany, mały, zgrabny czujnik, szybko dostosowuje się do warunków po przeniesieniu do nowego pomieszczenia.",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-18 08:26:28",
+            "purchase_date": "2021-01-26 08:40:30",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13862077",
+            "author": "s...r",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Ładny wygląd. Dokładne pomiary zgodne z analogowymi odpowiednikami. Prosta konfiguracja w aplikacji. Za tę cenę super.",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-01-29 09:46:31",
+            "purchase_date": "2021-01-18 12:58:53",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13433966",
+            "author": "Użytkownik Ceneo",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Malutki 3 rozne urządzenia pokazują temp i wilg z dokładnoscią 0.5. Brakuje czasem podświetlenia.",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2020-11-24 08:20:06",
+            "purchase_date": "2020-11-05 22:50:34",
+            "useful": 1,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14267310",
+            "author": "t...y",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Maleństwo 5x5 cm, prześliczne, ale drugibraz bym nie kupił, bo łączność bluetooth to jednak średniowiecze",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-10 12:51:37",
+            "purchase_date": "2021-03-29 11:38:37",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14176449",
+            "author": "Antoni",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Malutki czujnik, ale spełnia swoją rolę. Historia pozwala śledź przebieg temperatury i wilgotności.",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-03-25 07:56:09",
+            "purchase_date": "2021-02-22 08:48:12",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14013596",
+            "author": "p...n",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Mały gadżet. Łączy się bezprzewodowo z telefonem i pokazuje historię temperatury i wilgotności.",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-24 19:17:04",
+            "purchase_date": "2021-02-18 20:26:37",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13986812",
+            "author": "k...m",
+            "recommendation": true,
+            "stars": 4.0,
+            "content": "male zgrabne urządzenie mieszczące się w dłoni, pomiar wilgotności trochę niedokładny",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-19 12:18:21",
+            "purchase_date": "2021-02-14 20:20:30",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13693763",
+            "author": "p...n",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Działa nawet na ujemnych temperaturach, wiem chociaż do lodówki nie wsadziłem",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-01-01 11:17:59",
+            "purchase_date": "2020-12-18 12:16:51",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14064541",
+            "author": "s...0",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Wszystko zgodnie z opisem, jakość bardzo dobra, czujnik działa bez zarzutów",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-03-05 11:09:42",
+            "purchase_date": "2021-02-28 18:01:20",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13646318",
+            "author": "Z...2",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Wsumie okej ale nie dokładnie pokazuje wilgoć troszeczkę przekłamuje",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [
+                "niedokładny pomiar"
+            ],
+            "purchased": true,
+            "submit_date": "2020-12-25 08:56:53",
+            "purchase_date": "2020-12-20 11:54:57",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13725072",
+            "author": "Radość",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Dobrze za projektowany, wyraźny ekran. fajny gadget IOT.",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-01-07 09:06:10",
+            "purchase_date": "2020-12-17 14:10:51",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14289870",
+            "author": "d...i",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Bardzo dobra jakość wykonania, czytelny wyświetlacz.",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-14 19:04:44",
+            "purchase_date": "2021-04-08 09:01:40",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14150697",
+            "author": "v...f",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "mały, dokładny, dobrze się konfiguruje z aplikacją",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-03-20 09:04:58",
+            "purchase_date": "2021-03-11 08:14:32",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14641267",
+            "author": "8...9",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Produkt spełnia swoje zadanie i moje oczekiwania",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-06-24 12:11:57",
+            "purchase_date": "2021-06-21 10:46:54",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14279828",
+            "author": "D",
+            "recommendation": true,
+            "stars": 4.0,
+            "content": "wszystko ok, czasami potrafi zgubić łączność bt",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-13 13:03:34",
+            "purchase_date": "2021-04-07 16:18:13",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14050545",
+            "author": "s...j",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Fajnie działa, łatwa komunikacja z urządzeniami",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-03-03 14:49:40",
+            "purchase_date": "2021-02-09 09:55:27",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14378506",
+            "author": "j...n",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Pomiar temperatury oraz wilgotności doskonały!",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-29 07:33:50",
+            "purchase_date": "2021-04-08 14:00:21",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14333859",
+            "author": "p...7",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Świetnie wykonany produkt. Rewelacyjny wygląd",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-21 21:33:16",
+            "purchase_date": "2021-04-08 23:47:39",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13887581",
+            "author": "b...s",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "dobre urządzonko, tanie, szybka reakcja",
+            "pros": [
+                "funkcjonalność",
+                "jakość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-03 10:04:35",
+            "purchase_date": "2021-01-31 23:34:52",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14445024",
+            "author": "s...u",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Produkt spełnia założone oczekiwania.",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-05-12 18:49:44",
+            "purchase_date": "2021-04-12 11:20:10",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14303353",
+            "author": "m...9",
+            "recommendation": true,
+            "stars": 4.5,
+            "content": "Wszystko okej, brak baterii w zestawie",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-16 11:03:40",
+            "purchase_date": "2021-04-14 12:20:37",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13907651",
+            "author": "s...s",
+            "recommendation": true,
+            "stars": 4.0,
+            "content": "Dokładny bardzo niewielkich rozmiarów",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-05 20:26:55",
+            "purchase_date": "2021-01-25 08:06:42",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14129359",
+            "author": "f...k",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Obsługa bardzo sprawna, czujniki ok.",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-03-17 10:42:32",
+            "purchase_date": "2021-03-14 12:55:18",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13965439",
+            "author": "m...1",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Ładny wygląd i dobra funkcjonalność",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-16 17:38:47",
+            "purchase_date": "2021-01-16 16:48:56",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13905825",
+            "author": "r...z",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "spoko ale myślałem ,że jest większy",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-05 13:52:11",
+            "purchase_date": "2021-02-02 09:20:42",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13263232",
+            "author": "Jacek",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Mały z czytelnym ekranikiem. Super",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2020-10-23 13:59:24",
+            "purchase_date": "2020-10-18 19:04:47",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14009803",
+            "author": "Michał",
+            "recommendation": true,
+            "stars": 4.0,
+            "content": "Produkt fajny ale baaardzo mały.",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-24 12:11:27",
+            "purchase_date": "2021-02-17 15:05:26",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14313209",
+            "author": "Rafał",
+            "recommendation": true,
+            "stars": 4.0,
+            "content": "Działa. Spełnia swoje zadanie.",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-18 20:24:38",
+            "purchase_date": "2021-04-10 23:22:33",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14040690",
+            "author": "j...k",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Całkiem zgrabny mały termometr",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-03-02 00:18:02",
+            "purchase_date": "2021-02-17 11:57:01",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13791447",
+            "author": "G...g",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Super mały ale super pokazuję",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-01-18 16:08:24",
+            "purchase_date": "2021-01-13 18:49:22",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14493059",
+            "author": "b...h",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "jest funkcjonalny i malutki",
+            "pros": [
+                "funkcjonalność",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-05-21 10:28:29",
+            "purchase_date": "2021-04-07 13:48:57",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14383612",
+            "author": "g...a",
+            "recommendation": true,
+            "stars": 4.5,
+            "content": "ok. Trochę mały wyświetlacz",
+            "pros": [
+                "funkcjonalność"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-29 20:28:50",
+            "purchase_date": "2021-04-10 15:52:38",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14295783",
+            "author": "m...i",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Małe i czytelne urządzenia",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-15 12:26:22",
+            "purchase_date": "2021-04-09 07:36:25",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14327704",
+            "author": "p...c",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Spełnia moje oczekiwania",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-21 08:18:57",
+            "purchase_date": "2021-03-30 08:24:09",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13677439",
+            "author": "s...k",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Spełnia moje oczekiwania",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2020-12-30 08:05:37",
+            "purchase_date": "2020-12-09 22:53:44",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13898082",
+            "author": "d...a",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "malutki ale jest super",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-04 12:34:25",
+            "purchase_date": "2021-02-01 12:41:50",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14277351",
+            "author": "k...1",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Spełnia  oczekiwania",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-13 07:23:17",
+            "purchase_date": "2021-03-25 22:23:12",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13821416",
+            "author": "p...c",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Zgodnie z opisem",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [
+                "niedokładny pomiar"
+            ],
+            "purchased": true,
+            "submit_date": "2021-01-22 12:45:20",
+            "purchase_date": "2021-01-19 14:31:38",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13295029",
+            "author": "d...k",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Super urzadzenie",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2020-10-29 22:54:13",
+            "purchase_date": "2020-10-21 22:09:26",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14558899",
+            "author": "v...o",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Warte polecenia",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-06-04 21:19:07",
+            "purchase_date": "2021-05-26 20:40:39",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13912797",
+            "author": "m...c",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Wszystko dobrze",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-07 02:28:48",
+            "purchase_date": "2021-01-05 03:24:27",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14007112",
+            "author": "a...s",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Maly Dziala ok",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-24 01:30:22",
+            "purchase_date": "2021-02-13 22:37:54",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13383773",
+            "author": "p...9",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Super działa",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2020-11-16 11:51:15",
+            "purchase_date": "2020-11-09 11:50:34",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14013450",
+            "author": "p...p",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Wszystko ok",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-24 18:59:22",
+            "purchase_date": "2021-02-19 10:31:47",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13888072",
+            "author": "m...4",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Bez uwag.",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-03 10:47:45",
+            "purchase_date": "2021-01-31 15:44:59",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14059662",
+            "author": "2...s",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Polecam!",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-03-04 16:37:35",
+            "purchase_date": "2021-02-27 21:21:49",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14359747",
+            "author": "bucik4*****",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Polecam",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-26 19:48:53",
+            "purchase_date": "2021-04-13 16:21:26",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14038581",
+            "author": "a...7",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Polecam",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-03-01 18:45:18",
+            "purchase_date": "2021-02-22 11:16:11",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14028061",
+            "author": "g...t",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Polecam",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-26 18:43:35",
+            "purchase_date": "2021-02-13 15:13:54",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14353241",
+            "author": "f...1",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Działa",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [
+                "niedokładny pomiar"
+            ],
+            "purchased": true,
+            "submit_date": "2021-04-24 21:31:09",
+            "purchase_date": "2021-04-14 23:12:08",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14397951",
+            "author": "x...3",
+            "recommendation": true,
+            "stars": 4.5,
+            "content": "Dobry",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-05-03 22:00:23",
+            "purchase_date": "2021-04-10 23:08:45",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13915407",
+            "author": "arczik",
+            "recommendation": true,
+            "stars": 4.5,
+            "content": "spoko",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-08 07:49:08",
+            "purchase_date": "2021-01-25 11:43:23",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13622611",
+            "author": "I...i",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Cool",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2020-12-21 13:41:15",
+            "purchase_date": "2020-12-15 15:08:36",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13824018",
+            "author": "g...r",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Oki",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-01-22 21:39:01",
+            "purchase_date": "2021-01-11 20:21:42",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14472840",
+            "author": "m...3",
+            "recommendation": true,
+            "stars": 4.5,
+            "content": "Ok",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-05-18 10:16:35",
+            "purchase_date": "2021-05-01 13:41:59",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14349064",
+            "author": "a...k",
+            "recommendation": null,
+            "stars": 3.5,
+            "content": "OK",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "niedokładny pomiar",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-23 20:20:13",
+            "purchase_date": "2021-04-12 15:40:00",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14296043",
+            "author": "d...a",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Ok",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-15 12:59:57",
+            "purchase_date": "2021-04-09 16:18:35",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14126320",
+            "author": "b...8",
+            "recommendation": true,
+            "stars": 4.0,
+            "content": "Ok",
+            "pros": [
+                "funkcjonalność",
+                "jakość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-03-16 22:08:13",
+            "purchase_date": "2021-03-13 09:11:44",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14062140",
+            "author": "z...i",
+            "recommendation": true,
+            "stars": 4.0,
+            "content": "Ok",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-03-04 22:31:41",
+            "purchase_date": "2021-02-15 13:33:16",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13971969",
+            "author": "d...2",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "ok",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-17 12:52:31",
+            "purchase_date": "2021-02-12 19:14:35",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13879516",
+            "author": "d...7",
+            "recommendation": true,
+            "stars": 4.5,
+            "content": "Ok",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-02-02 09:33:01",
+            "purchase_date": "2021-01-13 00:06:28",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13857648",
+            "author": "m...a",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Ok",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-01-28 16:52:08",
+            "purchase_date": "2020-12-27 18:20:25",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13758130",
+            "author": "k...a",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "ok",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-01-12 22:09:31",
+            "purchase_date": "2020-12-27 08:18:46",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "13748557",
+            "author": "Radosław",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Ok",
+            "pros": [
+                "funkcjonalność",
+                "jakość",
+                "trwałość"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-01-11 17:52:00",
+            "purchase_date": "2020-12-11 23:10:07",
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14302866",
+            "author": "M...k",
+            "recommendation": false,
+            "stars": 1.0,
+            "content": "Brak baterii w zestawie",
+            "pros": [],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-16 10:25:33",
+            "purchase_date": "2021-04-09 10:37:54",
+            "useful": 0,
+            "useless": 1
+        }
+    ]
+}

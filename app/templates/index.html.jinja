@@ -1,5 +1,20 @@
 {% extends "layout.html.jinja" %}
 
 {% block middle %}
-    <h2>To jest plik index</h2>
+    <h2>Cel aplikacji</h2>
+    <p>Aplikacja służy do pobierania danych o produktach ze strony Ceneo.pl oraz wszystkich opinii na ich temat</p>
+    <br/>
+    <h2>Opis działania</h2>
+    <p>Aplikacja bazowana na frameworku Flask manualnie odwiedza stronę produktu o podanym numerze identyfikacyjnym, pobiera dane na jego temat, a następnie odwiedza wszystkie strony z opiniami o produkcie (jeżeli istnieją)</p>
+    <h2>Zastosowane biblioteki</h2>
+    <ul>
+        <li>flask</li>
+        <li>requests</li>
+        <li>BeautifulSoup</li>
+        <li>jinja</li>
+        <li>JSON</li>
+        <li>OS</li>
+    </ul>
+    <h2>Zastosowane podejścia</h2>
+    <p>Przy tworzeniu aplikacji zastosowane zostało podejście obiektowe, przy użyciu frameworka Flask</p>
 {% endblock middle %}
